@@ -21,15 +21,15 @@ Inside the folder you just created, create an `index.html` file and write a shor
 Once you have finished creating your personal website, you can submit your changes back to the original repository by making a pull request. To do this, follow these steps:
 
 1. Commit your changes by running the following command:
-<code>
+`
 git add .
 git commit -m "Added my personal website"
-</code>
+`
 
 2. Push your changes to your forked repository by running the following command:
-<code>
+`
 git push origin main
-</code>
+`
 
 3. Finally, open a pull request by clicking the `New pull request` button on the original repository's Github page. Make sure to select your forked repository as the `head repository` and the original repository as the `base repository`. Once you have filled out the necessary information, click the `Create pull request` button to submit your changes for review.
 
