@@ -3,7 +3,7 @@
 Welcome to the ACM Github Workshop! In this workshop, we will be teaching you about the basic Git commands that you can use to manage your codebase. We will also guide you through the process of contributing to an open source project hosted on Github.
 
 ## Getting Started
-###Fork the project
+### Fork the project
 To get started, you will need to fork this repository by clicking the Fork button at the top of this page. This will create a copy of this repository in your own Github account, which you can then modify without affecting the original repository.
 
 ### Clone the project
